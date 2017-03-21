@@ -55,3 +55,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # user session management
 gem 'devise_token_auth'
 gem 'omniauth'
+
+# fake seed data
+gem 'faker'
